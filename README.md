@@ -11,6 +11,6 @@ NO-IP: dynupdate.no-ip.com/nic/update?
 
 DYN.com LINK: members.dyndns.org/v3/update?
 
-Some registrar could need a custom update link, the legacy one and most used is xxxxxxxxx.xxx/nic/update...
+Some registrar could need a custom update link, the legacy one and most used is xxxxxxxxx.xxx/nic/update?
  
 
